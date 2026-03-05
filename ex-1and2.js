@@ -1,8 +1,8 @@
 //Exercise #1: Variable Creation
 //Start coding here
 
-const fristName = "Karter" ;
-const lastName = "Anderson" ;
+let fristName = "Karter" ;
+let lastName = "Anderson" ;
 let address = "54/24 Gp 5 Bangkruay-Sainoi Bang Kruay Bang Kruai";
 const restauront = "Chef's Table by Chef James";
 let bill = 15000;
