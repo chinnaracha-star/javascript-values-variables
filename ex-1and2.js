@@ -5,8 +5,8 @@ let fristName = "Karter" ;
 let lastName = "Anderson" ;
 let address = "54/24 Gp 5 Bangkruay-Sainoi Bang Kruay Bang Kruai";
 const restauront = "Chef's Table by Chef James";
-let bill = 15000;
-let totalOpenRestaurant = 1500 ;
+const bill = 15000;
+const totalOpenRestaurant = 1500 ;
 
 
 //Exercise #2: Variable Reassignment
